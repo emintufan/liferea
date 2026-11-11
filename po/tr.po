@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: liferea master\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-11 15:32+0300\n"
-"PO-Revision-Date: 2026-11-06 08:00+0300\n"
+"PO-Revision-Date: 2026-11-11 08:00+0300\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Türkçe <takim@gnome.org.tr>\n"
 "Language: tr\n"
@@ -1096,7 +1096,7 @@ msgstr "Hakkında"
 #. TRANSLATORS: Replace this string with your names, one name per line.
 #: resources/ui/about.ui:69
 msgid "translator-credits"
-msgstr ""
+msgstr "Emin Tufan Çetin <etcetin@gmail.com>"
 
 #: resources/ui/about.ui:71
 msgid "Liferea Homepage"
