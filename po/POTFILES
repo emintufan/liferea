@@ -115,8 +115,6 @@ src/parsers/ldjson_feed.c
 src/parsers/ldjson_feed.h
 src/parsers/ns_admin.c
 src/parsers/ns_admin.h
-src/parsers/ns_ag.c
-src/parsers/ns_ag.h
 src/parsers/ns_cC.c
 src/parsers/ns_cC.h
 src/parsers/ns_content.c
@@ -171,8 +169,6 @@ src/ui/subscription_dialog.h
 src/ui/ui_common.c
 src/ui/ui_dnd.c
 src/ui/ui_dnd.h
-src/ui/ui_update.c
-src/ui/ui_update.h
 src/update.c
 src/update.h
 src/update_job.c
@@ -191,7 +187,6 @@ src/xml.c
 src/xml.h
 resources/ui/about.ui
 resources/ui/auth.ui
-resources/ui/google_source.ui
 resources/ui/mainwindow.ui
 resources/ui/mark_read_dialog.ui
 resources/ui/new_folder.ui
@@ -201,14 +196,10 @@ resources/ui/opml_source.ui
 resources/ui/plugins.ui
 resources/ui/prefs.ui
 resources/ui/properties.ui
-resources/ui/reedah_source.ui
 resources/ui/rename_node.ui
 resources/ui/search_folder.ui
 resources/ui/search.ui
 resources/ui/shortcuts.ui
 resources/ui/simple_subscription.ui
-resources/ui/theoldreader_source.ui
-resources/ui/ttrss_source.ui
-resources/ui/update_monitor.ui
 resources/item.xml.in
 resources/node.xml.in
